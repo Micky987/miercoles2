@@ -1,0 +1,19 @@
+id,codigo_cliente,cliente,producto,precio,descuento,iva
+1,100001,Ramiro Perez,arroz,158,,
+2,100002,,pan,589,,
+3,100003,,fideos,125,,
+4,100004,,gaseosas,89,,
+5,100005,,cereales,257,,
+6,100006,,arina,358,,
+
+
+7,10009,Gabriel Casas,Papas fritas,68,,
+8,10009,Gabriel Casas,Papas fritas,68,,
+9,10009,Gabriel Casas,Papas fritas,68,,
+10,10009,Gabriel Casas,Papas fritas,68,,
+11,10009,Gabriel Casas,Papas fritas,68,,
+12,10009,Gabriel Casas,Papas fritas,68,,
+13,10009,Gabriel Casas,Papas fritas,68,,
+14,10009,Gabriel Casas,Papas fritas,68,,
+15,10009,Gabriel Casas,Papas fritas,68,,
+16,100011,miguel laura,arroz,123,,
